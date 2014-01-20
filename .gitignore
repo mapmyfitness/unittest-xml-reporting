@@ -7,3 +7,5 @@ dist/*
 
 # Egg info directory
 *.egg-info
+
+RELEASE-VERSION
